@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🤔 About me - I'm currently a student at the University of South Wales studying Computer Science.
+  
+- 🔭 What am i doing - I'm learning the C++ programming language with the computer science course, along with proffesionalism and information management. 
+  
+- 🌱 My skillset - I have knowledge and am skilled in a few different programming languages, such as Python, HTML and C#. I also have a fairly competent level of the Japanese language, where i'm able to understand the majority of the sentences i come across, and have studied all modern uses of japanese grammer. 
+  
+- 💬 Recent projects - Recently I've been working on creating a scientific calculator in R studio using the shiny framework. I've also been creating mini projects in C++ to aid in increasing my skill with the language. 
+
+- ⚡ Hobbies - In my free time i generally spend my time interacting with content in japanese as i am currently learning the language and the more time i spend immersing in japanese content, the faster i will gain fluency. I spend the majority of my time reading japanese novels and manga while also watching anime and other japanese tv shows.
+
 <!--
 **AlfieRichards19/AlfieRichards19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
