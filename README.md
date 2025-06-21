@@ -2,7 +2,7 @@
 
 - 🤔 About me - I'm currently a student at the University of South Wales studying Computer Science. I was born in south wales and have lived here my whole life. My interests generally revolve around fiction such as novels, games, manga, and anime. Although almost every form of entertainment i use, other than novels, comes through my computer, and so naturally i gained an interest in computers and their workings. 
   
-- 🔭 What am i doing - I'm learning the C++ programming language with the computer science course, along with proffesionalism and information management. Currently i'm trying to get into digital art, as i used an AI image generation software, stable diffusion, and the images created looked  nice, but they felt plastic or mass produced, and so i began wanting to get into digital art and create illustrations. 
+- 🔭 What am i doing - I'm learning the C++ programming language with the computer science course, along with proffesionalism and information management.
   
 - 🌱 My skillset - I have knowledge and am skilled in a few different programming languages, such as Python, HTML and C#. As i am still leraning c++, i do not consider myself skilled in the language, but i have most of the basic knowledge of the language. My skills also include a competent level in the japanese language, due to my hobbies, i began wanting to learn the langauge and have done so for the past 2 years, at my current level, i can understand the majority of native japanese content i consume, but i wouldn't consider myself fluent at my current level. 
   
