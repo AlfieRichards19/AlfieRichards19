@@ -1,14 +1,6 @@
-### Hi there 👋
+### Hi there
 
-- 🤔 About me - I'm currently a student at the University of South Wales studying Computer Science. I was born in south wales and have lived here my whole life. My interests generally revolve around fiction such as novels, games, manga, and anime. Although almost every form of entertainment i use, other than novels, comes through my computer, and so naturally i gained an interest in computers and their workings. 
-  
-- 🔭 What am i doing - I'm learning the C++ programming language with the computer science course, along with proffesionalism and information management.
-  
-- 🌱 My skillset - I have knowledge and am skilled in a few different programming languages, such as Python, HTML and C#. As i am still leraning c++, i do not consider myself skilled in the language, but i have most of the basic knowledge of the language. My skills also include a competent level in the japanese language, due to my hobbies, i began wanting to learn the langauge and have done so for the past 2 years, at my current level, i can understand the majority of native japanese content i consume, but i wouldn't consider myself fluent at my current level. 
-  
-- 💬 Recent projects - Recently I've been working on creating a scientific calculator in R studio using the shiny library. I've also been creating mini projects in C++ to aid in increasing my skill with the language. My most recent project is the start of a new game in python, where i'm trying to program the game from scratch without the use of a game engine. 
-
-- ⚡ Hobbies - In my free time i generally spend my time interacting with content in japanese as i am currently learning the language and the more time i spend immersing in japanese content, the closer i will be to fluency. I spend the majority of my time reading japanese novels and manga while also watching anime and other japanese tv shows. More recently, i have gained an interest in AI and have spent some of my free time researching AI and how it works as it is a topic that interests me.
+I currently have a BSC in Computer Science, and I'm studying for an MSC in Data Science. This profile is mostly hobby projects or university work.
 
 <!--
 **AlfieRichards19/AlfieRichards19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
